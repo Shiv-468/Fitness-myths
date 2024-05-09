@@ -1,0 +1,89 @@
+:root{
+    --white:#F2F2F3;
+    --yellow:#FCE500;
+    --black:#010101;
+    --black-box: #33333330;
+
+
+    --font-size-xsm: 14px;
+    --font-size-sm: 16px;
+    --font-size-md: 18px;
+    --font-size-lg: 26px;
+    --font-size-xl: 30px;
+    --font-size-2xl: 45px;
+    --font-size-3xl: 47px;
+
+
+    --line-height-xsm: 14px;
+    --line-height-sm: 16px;
+    --line-height-xmd: 21px;
+    --line-height-md: 23.31px;
+    --line-height-xlg: 28px;
+    --line-height-lg: 33px;
+    --line-height-xl: 37px;
+    --line-height-2xl: 49.65px;
+    --line-height-3xl: 59px;
+}
+
+.color_white{
+    color: var(--white);
+}
+.color_yellow{
+    color: var(--yellow);
+}
+.bg_black{
+    background: var(--black);
+}
+.bg_black_box{
+    background: var(--black-box);
+}
+.font_size_xsm{
+    font-size: var(--font-size-xsm);
+}
+.font_size_sm{
+    font-size: var(--font-size-sm);
+}
+.font_size_md{
+    font-size: var(--font-size-md);
+}
+.font_size_lg{
+    font-size: var(--font-size-lg);
+}
+.font_size_xl{
+    font-size: var(--font-size-xl);
+}
+.font_size_2xl{
+    font-size: var(--font-size-2xl);
+}
+.font_size_3xl{
+    font-size: var(--font-size-3xl);
+}
+
+
+.line_height_xsm{
+    line-height: var(--line-height-xsm);
+}
+.line_height_sm{
+    line-height: var(--line-height-sm);
+}
+.line_height_xmd{
+    line-height: var(--line-height-xmd);
+}
+.line_height_md{
+    line-height: var(--line-height-md);
+}
+.line_height_xlg{
+    line-height: var(--line-height-xlg);
+}
+.line_height_lg{
+    line-height: var(--line-height-lg);
+}
+.line_height_xl{
+    line-height: var(--line-height-xl);
+}
+.line_height_2xl{
+    line-height: var(--line-height-2xl);
+}
+.line_height_3xl{
+    line-height: var(--line-height-3xl);
+}
