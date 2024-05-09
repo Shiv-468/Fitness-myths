@@ -26,6 +26,10 @@ background-image: url(./assets/images/webp/header_img.png);
   border-radius: 24px;
   padding: 63px 54px 50px;
 }
+.headerImg{
+  max-width: 338px;
+  min-height: 475px;
+}
 .BoxEllipse{
   top: 0;
   left: 0;
@@ -46,10 +50,19 @@ top: 10%;
   padding: 16px 22px 12px;
 }
 
+.yellowSection_bg{
+  background-image: url(./assets/images/webp/yellow_section_bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
-
-
-
+.author_img{
+  max-width: 539px;
+}
+.cover_book_width{
+  max-width: 398px;
+}
 
 .max_width_522{
 max-width: 522px;

@@ -3,7 +3,7 @@
     --yellow:#FCE500;
     --black:#010101;
     --black-box: #33333330;
-
+    --section-yellow:#FCE500F0;
 
     --font-size-xsm: 14px;
     --font-size-sm: 16px;
@@ -24,9 +24,14 @@
     --line-height-2xl: 49.65px;
     --line-height-3xl: 59px;
 }
-
+.bg_yellow{
+    background: var(--section-yellow);
+}
 .color_white{
     color: var(--white);
+}
+.color_black{
+    color: var(--black);
 }
 .color_yellow{
     color: var(--yellow);

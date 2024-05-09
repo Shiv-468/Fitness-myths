@@ -17,7 +17,7 @@ const Header = () => {
                 <h1 className='font_size_2xl line_height_3xl fw-bold mb-0 color_white'>Get the EBook that reveals the <span className='color_yellow'>7 fitness myths</span> that are holding you back from experiencing top-level fitness </h1>
             </div>
             <div className='col-5'>
-             <img src={Hypervive} alt="hypervive" className=' w-100' />
+             <img src={Hypervive} alt="hypervive" className=' w-100 headerImg' />
             </div>
         </div>
     </div>

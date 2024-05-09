@@ -15,9 +15,9 @@ const SendIt = () => {
             <div className=" col-6 d-flex justify-content-end align-items-center">
                 <div className="max_width_522">
                 <h2 className=' mb-0 font_size_xl line_height_xl fw-bold color_white'>Let me know where <span className=' color_yellow'>you want me to send it</span></h2>
-                <form action="">
-                    <input type="text" className='sendit_input color_white w-100 bg-transparent margin_top_30' placeholder='Name' />
-                    <input type="email" className='sendit_input color_white w-100 bg-transparent margin_top_13' placeholder='Email' />
+                <form action="/action_page.php" >
+                    <input type="text" id='no' className='sendit_input color_white w-100 bg-transparent margin_top_30' placeholder='Name' />
+                    <input type="email" id='not' className='sendit_input color_white w-100 bg-transparent margin_top_13' placeholder='Email' />
                     <button className='navButton position-relative font_family_Eurostile fw-bold mt-5'>GET IN TOUCH</button>
                 </form>
                 </div>
