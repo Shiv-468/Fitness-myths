@@ -15,7 +15,7 @@ const Contents = () => {
             <p className=' mb-0 color_black font_size_md line_height_xlg fw-normal margin_top_10 font_family_Manrope'>Grab your free copy now!</p>
             <div className=" position-relative button_border2 margin_top_30">
               <div className=" position-absolute yellow_line"></div>
-            <button className='button3 position-relative font_family_Eurostile fw-bold color_white'>GET IN TOUCH</button>
+            <button className='button3 position-relative font_family_Eurostile color_white'>GET IN TOUCH</button>
             </div>
           </div>
         </div>
