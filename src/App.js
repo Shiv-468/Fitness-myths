@@ -1,5 +1,7 @@
 import './App.css';
 import About from './components/About';
+import Contents from './components/Contents';
+import Footer from './components/Footer';
 import Header from './components/Header';
 import Section2 from './components/Section2';
 import SendIt from './components/SendIt';
@@ -13,6 +15,8 @@ function App() {
     <SendIt/>
     <YellowSection/>
     <About/>
+    <Contents/>
+    <Footer/>
     </>
   );
 }
