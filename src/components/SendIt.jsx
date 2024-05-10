@@ -14,7 +14,7 @@ const SendIt = () => {
             </div>
             <div className=" col-12 col-lg-6 d-flex justify-content-center justify-content-lg-end align-items-center mt-5 mt-lg-0">
                 <div className="max_width_522">
-                <h2 className=' mb-0 font_size_xl line_height_xl fw-bold color_white font_family_Eurostile'>Let me know where <span className=' color_yellow'>you want me to send it</span></h2>
+                <h2 className=' mb-0 font_size_xl line_height_xl fw-bold color_white font_family_Eurostile text-capitalize'>Let me know where <span className=' color_yellow'>you want me to send it</span></h2>
                 <form action="/action_page.php" >
                     <input type="text" id='no' className='sendit_input color_white w-100 bg-transparent margin_top_30' placeholder='Name' />
                     <input type="email" id='not' className='sendit_input color_white w-100 bg-transparent margin_top_13' placeholder='Email' />
