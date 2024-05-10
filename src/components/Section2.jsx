@@ -19,7 +19,7 @@ const Section2 = () => {
             <p className='mb-0 color_white text-center font_size_md line_height_xlg z-1'>Early on in my career I realized that in order to get to the next level I needed to get stronger, pack on some lean muscle, improve my endurance, increase my sprint speed & develop robust change of direction qualities.</p>
             <p className='mb-0 color_white text-center font_size_md line_height_xlg z-1'>Problem was... I had no idea how to improve these qualities. I needed help. I spent majority of my time researching on social media platforms & doing workouts that got me minimal results.</p>
             <p className='mb-0 color_white text-center font_size_md line_height_xlg z-1'>Once I figured out the secret sauce to improving all the qualities mentioned above, getting fit became effortless. No more stress, disappointment, anger or frustration. I want you to feel that too. This short eBook can provide you with the tools you need to start getting better results out of your current programs, while doing less not more.</p>
-            <div className="button_border position-relative">
+            <div className="button_border position-relative margin_top_30">
             <div className=" position-absolute black_line"></div>
             <button className='navButton position-relative font_family_Eurostile fw-bo ld font_size_xsm line_height_xsm'>Download Now</button>
             </div>
