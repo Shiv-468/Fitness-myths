@@ -18,7 +18,7 @@ const Footer = () => {
 
     </div>
     <div className="footer_line"></div>
-    <p className=' mb-0 text-center color_white Copyright_padding'>Copyright © 2024 HyperVive | All Rights Reserved.</p>
+    <p className=' mb-0 text-center color_white Copyright_padding font_size_xsm line_height_md font_family_Manrope'>Copyright © 2024 HyperVive | All Rights Reserved.</p>
    </section>
   )
 }

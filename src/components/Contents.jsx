@@ -12,7 +12,7 @@ const Contents = () => {
           <div className="col-12 col-lg-6 d-flex justify-content-center px-0 mt-4 mt-lg-0">
         <div className="max_width_520 d-flex flex-column align-items-center align-items-lg-start">
             <h2 className=' mb-0 color_black font_size_2xl line_height_3xl font_family_Eurostile text-capitalize text-center text-lg-start'>7 Fitness Myths to Avoid</h2>
-            <p className=' mb-0 color_black font_size_md line_height_xlg fw-normal margin_top_10'>Grab your free copy now!</p>
+            <p className=' mb-0 color_black font_size_md line_height_xlg fw-normal margin_top_10 font_family_Manrope'>Grab your free copy now!</p>
             <div className=" position-relative button_border2 margin_top_30">
               <div className=" position-absolute yellow_line"></div>
             <button className='button3 position-relative font_family_Eurostile fw-bold color_white'>GET IN TOUCH</button>
