@@ -50,6 +50,7 @@
   padding: 7px;
   border-radius: 1.01px;
   border: 0.5px solid var(--black);
+  transition: all 400ms ease-in-out;
 }
 
 .black_line {
@@ -71,9 +72,14 @@
 .button3 {
   padding: 16px 14px;
   background: var(--black);
-  border: none;
+  transition: all 400ms ease-in-out;
+  border: 1px solid transparent;
 }
-
+.button_border2:hover .button3{
+background: transparent;
+border: 1px solid var(--black);
+color: var(--black);
+}
 .navButton {
   padding: 13.47px 8.78px;
   border-radius: 1.01px;
@@ -235,7 +241,6 @@
 .ContentLaptop {
   max-width: 658px;
   height: 438.97px;
-  right: -28px;
   bottom: 20px;
 }
 
@@ -243,7 +248,6 @@
   max-width: 658px;
   margin-top: -28%;
 }
-
 
 .footer_social_link {
   width: 39px;
@@ -365,7 +369,9 @@
   .img_translate {
     transform: translateX(-27px);
   }
-
+  .ContentLaptop {
+    right: -28px;
+  }
   .author_img {
     max-width: 539px;
     transform: translateX(-30px);
