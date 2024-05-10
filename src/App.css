@@ -29,7 +29,9 @@
 .font_family_Manrope {
   font-family: "Manrope", sans-serif;
 }
-
+.heading_width{
+  max-width: 666px;
+}
 .max_width_1140 {
   max-width: 1140px;
 }

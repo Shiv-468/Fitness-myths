@@ -16,10 +16,10 @@ const Header = () => {
     </nav>
     <div className='container max_width_1140 section1_paddings'>
         <div className='row'>
-            <div className='col-12 col-lg-7 d-flex align-items-center'>
-                <h1 className='font_size_2xl line_height_3xl mb-0 color_white font_family_Eurostile'>Get The eBook That Reveals The <span className='color_yellow'>7 Fitness Myths</span> That Are Holding You Back From Experiencing Top-Level Fitness </h1>
+            <div className='col-12 col-lg-8 d-flex align-items-center'>
+                <h1 className='font_size_2xl line_height_3xl mb-0 fw-bold color_white font_family_Eurostile heading_width'>Get The eBook That Reveals The <span className='color_yellow'>7 Fitness Myths</span> That Are Holding You Back From Experiencing Top-Level Fitness </h1>
             </div>
-            <div className='col-12 col-lg-5 d-flex justify-content-center justify-content-lg-center mt-4 mt-lg-0'>
+            <div className='col-12 col-lg-4 d-flex justify-content-center justify-content-lg-center mt-4 mt-lg-0'>
              <img src={Hypervive} alt="hypervive" className=' w-100 headerImg' />
             </div>
         </div>
