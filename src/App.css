@@ -241,6 +241,7 @@ color: var(--black);
 .ContentLaptop {
   max-width: 658px;
   height: 438.97px;
+  right: 0;
   bottom: 20px;
 }
 
